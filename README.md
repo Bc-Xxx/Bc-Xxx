@@ -78,8 +78,6 @@
 
 <img src="https://streak-stats.demolab.com?user=Bc-Xxx&theme=tokyonight&hide_border=true&background=00000000&locale=zh_Hans" height="170" alt="GitHub Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bc-Xxx&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%" alt="Trophies" />
-
 </div>
 
 <br/>
