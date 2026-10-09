@@ -65,7 +65,7 @@
 | 🤖 [RAG](https://github.com/Bc-Xxx/RAG) | 智能文档问答助手 | LangChain + ChromaDB，扫描件 OCR、流式输出、Docker 部署 |
 | 🔗 [short-link](https://github.com/Bc-Xxx/short-link) | 短链接生成与管理服务 | FastAPI + 访问统计 + AI 安全分析 |
 | 📝 [PersonalBlog](https://github.com/Bc-Xxx/PersonalBlog) | 个人博客系统 | FastAPI + Vue 3 前后端分离 |
-| 📱 [Detection](https://github.com/Bc-Xxx/AI-RenTi-DongZuo-ShiBie) | 鸿蒙健康饮食应用 | ArkTS，BMI 分析 / 卡路里统计 / 饮食记录 |
+| 📱 [Detection](https://github.com/Bc-Xxx/AI-RenTi-DongZuo-ShiBie) | 人体动作监控识别 | 抛物/爬墙/吸烟 |
 
 <br/>
 
